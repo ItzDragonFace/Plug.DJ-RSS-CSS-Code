@@ -2,7 +2,7 @@
     "room": "#Random Music | Official",
     "author": "#Random Music | Official",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/tris90190/cssplugdj/master/css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
